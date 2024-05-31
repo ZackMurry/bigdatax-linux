@@ -120,7 +120,7 @@ The `killall` command is used to end all processes with a given name.
 
 ## du
 
-The `du` command is used to view disk usage.
+The `du` command is used to view disk usage in a directory.
 ![screenshot of example command](./du.png)
 
 ## df
@@ -160,47 +160,110 @@ The `man` command opens the manual of a given command.
 
 ## locate
 
-The `locate` command opens the manual of a given command.
-![screenshot of example command](./man.png)
+The `locate` command locates a file or directory in the filesystem by its name.
+![screenshot of example command](./locate.png)
 
 ## find
 
+The `locate` command allows searching for files via their attributes, such as the name, size, or modification date of the files.
+![screenshot of example command](./find.png)
+
 ## sed
+
+The `sed` command is used for substituting text in a file and outputting the new text to a stream.
+![screenshot of example command](./sed.png)
 
 ## awk
 
+The `awk` command is used to interface with a scripting language that is generally used for editing and filtering text.
+![screenshot of example command](./awk.png)
+
 ## diff
+
+The `diff` command is used to find the difference between files.
+![screenshot of example command](./diff.png)
 
 ## sort
 
+The `sort` command is used to sort data.
+![screenshot of example command](./sort.png)
+
 ## export
+
+The `export` command is used to pass environment variables, functions, and variables to child processes.
+![screenshot of example command](./export.png)
 
 ## pwd
 
-##
+The `pwd` command is used to Print the Working Directory.
+![screenshot of example command](./pwd.png)
+
+## crontab
+
+The `crontab` command is used to schedule repeated executions of commands.
+![screenshot of example command](./crontab.png)
 
 ## mount
 
+The `mount` command is used to mount disks to the filesystem.
+![screenshot of example command](./mount.png)
+
 ## passwd
+
+The `passwd` command is used to change a user's password.
+![screenshot of example command](./passwd.png)
 
 ## uname
 
+The `uname` command is used to find information about the machine's operating system and hardware.
+![screenshot of example command](./uname.png)
+
 ## whereis
+
+The `whereis` command is used to locate commands in the filesystem.
+![screenshot of example command](./whereis.png)
 
 ## whatis
 
+The `whatis` command displays one-line manual descriptions of commands.
+![screenshot of example command](./whatis.png)
+
 ## su
+
+The `su` command is used to change the active user, typically to root.
+![screenshot of example command](./su.png)
 
 ## ping
 
+The `ping` command is used to check whether a host is reachable by sending it packets.
+![screenshot of example command](./ping.png)
+
 ## traceroute
+
+The `traceroute` command is used to find the path on the network to a host.
+![screenshot of example command](./traceroute.png)
 
 ## date
 
+The `date` command prints the current date and time.
+![screenshot of example command](./date.png)
+
 ## time
+
+The `time` command measures the execution time of a given command.
+![screenshot of example command](./time.png)
 
 ## wget
 
+The `wget` command downloads or uploads files on the network.
+![screenshot of example command](./wget.png)
+
 ## wc
 
+The `wc` (word count) command counts the lines, words, and bytes of files and streams.
+![screenshot of example command](./wc.png)
+
 ## pwgen
+
+The `pwgen` command generates secure passwords that are meant to be easy to memorize.
+![screenshot of example command](./pwgen.png)
